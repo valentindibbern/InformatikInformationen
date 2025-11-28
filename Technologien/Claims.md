@@ -1,0 +1,2 @@
+# Claims
+Claims sind Dateneinheiten, die auf dem Client gespeichert werden. In ihnen werden Benutzerinformationen wie Nutzername und Rollen gespeichert, **MIT AUS NAHME VON PASSWÖRTERN**. Folglich können UI-Controller auf diese zugreifen, API-Controller aber nicht.

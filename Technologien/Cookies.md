@@ -1,0 +1,2 @@
+# Cookies
+Cookies sind Userseitige Speichereinheiten. In ihnen kann alles mögliche gespeichert werden, was über das Benutzen der Website bestehen soll. Sie sind nicht verschlüsselt und sollten somit nichts wichtiges in ihnen gespeichert werden.

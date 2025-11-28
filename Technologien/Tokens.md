@@ -1,0 +1,2 @@
+# Tokens
+Ein Token ist eine Einheit die verwendet wird, um spezifische Informationen zu Handhaben. Folglich besteht ein Token aus einem **HEAD** als ein Name oder Titel und einer **Payload**, also dem *Inhalt* des Tokens.
