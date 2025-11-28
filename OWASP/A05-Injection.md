@@ -17,5 +17,7 @@ When it is not possible to separate the data from commands, you can reduce threa
 - Use positive server-side input validation. This is not a complete defense as many applications require special characters, such as text areas or APIs for mobile applications.
 - For any residual dynamic queries, escape special characters using the specific escape syntax for that interpreter. **Note:** SQL structures such as table names, column names, and so on cannot be escaped, and thus user-supplied structure names are dangerous. This is a common issue in report-writing software.
 **Warning:** These techniques involve parsing and escaping complex strings, making them error-prone and not robust in the face of minor changes to the underlying system.
-## EShop Probleme
 ## EShop Lösungen
+1. Prepared Statements
+2. Stored Procedures
+3. Eingabevalidierung (Blacklist)

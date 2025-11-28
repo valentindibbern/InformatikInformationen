@@ -37,5 +37,9 @@ Do the following, at a minimum, and consult the references:
 - Avoid deprecated cryptographic functions, block building methods and padding schemes, such as MD5, SHA1, Cipher Block Chaining Mode (CBC), PKCS number 1 v1.5.
 - Ensure settings and configurations meet security requirements by having them reviewed by security specialists, tools designed for this purpose, or both.
 - Consider to prepare for post quantum cryptography (PQC), see references (ENISA, NIST)
-## EShop Probleme
 ## EShop Lösungen
+1. TLS-Datenbankverbindung sicherstellen
+2. Passwörter müssen als VARCHAR(128) gespeichert werden.
+3. API-Authentifizierung ausschliesslich mit JWT-Tokens.
+4. Key-Vault-Pflicht
+5. Verschlüsselungstest

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP/A04-CryptographicFailures.md",
+                "file": "OWASP/A10-MishandlingOfExceptionalConditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A04-CryptographicFailures"
+              "title": "A10-MishandlingOfExceptionalConditions"
             }
           }
         ]
@@ -182,21 +182,27 @@
   },
   "active": "eddba6080b9ba01c",
   "lastOpenFiles": [
-    "OWASP/A05-Injection.md",
-    "Technologien/Tokens.md",
-    "Technologien/Cookies.md",
-    "Technologien/Claims.md",
-    "OWASP/A03-SoftwareSupplyChainFailures.md",
-    "README.md",
-    "Technologien",
-    "OWASP/A10-MishandlingOfExceptionalConditions.md",
-    "OWASP/A09-LoggingAndAlertingFailures.md",
+    "Technologien/Serialisierung.md",
     "OWASP/A08-SoftwareOrDataIntegrityFailures.md",
     "OWASP/A07-AuthenticationFailures.md",
     "OWASP/A06-InsecureDesign.md",
     "OWASP/A04-CryptographicFailures.md",
-    "OWASP/A02-SecurityMisconfiguration.md",
+    "EShop/DoR.md",
+    "Technologien/AJAX.md",
+    "OWASP/A05-Injection.md",
+    "OWASP/OWASP2025.md",
+    "OWASP/A10-MishandlingOfExceptionalConditions.md",
+    "OWASP/A09-LoggingAndAlertingFailures.md",
     "OWASP/A01-BrokenAccessControl.md",
+    "OWASP/A02-SecurityMisconfiguration.md",
+    "OWASP/A03-SoftwareSupplyChainFailures.md",
+    "EShop/DoD.md",
+    "EShop",
+    "README.md",
+    "Technologien/Tokens.md",
+    "Technologien/Cookies.md",
+    "Technologien/Claims.md",
+    "Technologien",
     "OWASP/BrokenAccessControl.md",
     "OWASP",
     "Welcome.md"

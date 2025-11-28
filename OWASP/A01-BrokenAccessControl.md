@@ -25,7 +25,6 @@ Access control is only effective when implemented in trusted server-side code or
 - Stateful session identifiers should be invalidated on the server after logout. Stateless JWT tokens should be short-lived to minimize the window of opportunity for an attacker. For longer-lived JWTs, it's highly recommended to follow the OAuth standards to revoke access.
 - Use well-established toolkits or patterns that provide simple, declarative access controls.
 Developers and QA staff should include functional access control in their unit and integration tests.
-## EShop Probleme
 ## EShop Lösungen
 1. 
 2. Serverseitige Autorisierung (Plicht)

@@ -31,5 +31,4 @@ Developers should implement some or all the following controls, depending on the
 - Behavior analysis and AI support could be optionally an additional technique to support low rates of false positives for alerts.
 - Establish or adopt an incident response and recovery plan, such as National Institute of Standards and Technology (NIST) 800-61r2 or later. Teach your software developers what application attacks and incidents look like, so they can report them.
 There are commercial and open-source application protection products such as the OWASP ModSecurity Core Rule Set, and open-source log correlation software, such as the Elasticsearch, Logstash, Kibana (ELK) stack, that feature custom dashboards and alerting that may help you combat these issues. There are also commercial observability tools that can help you respond to or block attacks in close to real-time.
-## EShop Probleme
 ## EShop Lösungen

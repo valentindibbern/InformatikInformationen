@@ -31,7 +31,6 @@ There should be a patch management process in place to:
 There should be a change management process or tracking system in place to track changes to: * Your CI/CD settings (all build tools and pipeline) * Your code repository * Sandbox areas * Developer IDEs * Your SBOM tooling, and created artifacts * Your logging systems and logs * Third party integrations, such as SaaS * Artifact repository * Container registry
 Harden the following systems, which includes enabling MFA and locking down IAM: * Your code repository (which includes not checking in secrets, protecting branches, backups) * Developer workstations (regular patching, MFA, monitoring, and more) * Your build server & CI/CD (separation of duties, access control, signed builds, environment-scoped secrets, tamper-evident logs, more) * Your artifacts (ensure integrity via providence, signing, and time stamping, promote artifacts rather than rebuilding for each environment, ensure builds are immutable) * Infrastructure as code is managed like all code, including use of PRs and version control
 Every organization must ensure an ongoing plan for monitoring, triaging, and applying updates or configuration changes for the lifetime of the application or portfolio.
-## EShop Probleme
 ## EShop Lösungen
 1. Überprüfung der NuGet-Abhängigkeiten (ASP.NET Core & API)
 	- 

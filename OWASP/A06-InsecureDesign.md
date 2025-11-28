@@ -22,5 +22,4 @@ Secure software requires a secure development lifecycle, a secure design pattern
 - Write unit and integration tests to validate that all critical flows are resistant to the threat model. Compile use-cases _and_ misuse-cases for each tier of your application.
 - Segregate tier layers on the system and network layers, depending on the exposure and protection needs
 - Segregate tenants robustly by design throughout all tiers
-## EShop Probleme
 ## EShop Lösungen
